@@ -6,5 +6,5 @@ class ApplicationController < ActionController::Base
   end
   def goodbye
     render html: "¡Adios, mi gente!"
-  end 
+  end
 end
