@@ -9,4 +9,5 @@ class ApplicationController < ActionController::Base
   end
   def wassup
     render html: "WASSSSSSSSSSSSSSSSSSSSSSUUUUUUUUUUUUUUUUUUUP?"
+  end
 end
