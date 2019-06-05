@@ -7,7 +7,4 @@ class ApplicationController < ActionController::Base
   def goodbye
     render html: "¡Adios, mi gente!"
   end
-  def wassup
-    render html: "WASSSSSSSSSSSSSSSSSSSSSSUUUUUUUUUUUUUUUUUUUP?"
-  end
 end
